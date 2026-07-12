@@ -1,0 +1,24 @@
+{
+  "name": "finaltp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuangFe/YA-FinalTP2-FerreyraJuan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JuangFe/YA-FinalTP2-FerreyraJuan/issues"
+  },
+  "homepage": "https://github.com/JuangFe/YA-FinalTP2-FerreyraJuan#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
