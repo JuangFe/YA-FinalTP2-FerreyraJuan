@@ -1,4 +1,4 @@
-import { alertasService } from "../Container/alertaContainer.js"
+import { alertasService } from "../Container/alertasContainer.js"
 
 export function listarAlertas(req,res,next){
     try{

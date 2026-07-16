@@ -9,6 +9,9 @@ class SensoresService {
     crearSensor(data){
         return this.sensoresDAO.crear(data);
     }
+    registrarLectura(lectura){
+        return lectura;
+    }
 
 }
 
